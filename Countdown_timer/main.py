@@ -12,4 +12,4 @@ def countdown(t):
 
 t = input('Enter the time in seconds: ')
 .
-countdo.w.n(int(t))
+count.do.w.n(int(t))
